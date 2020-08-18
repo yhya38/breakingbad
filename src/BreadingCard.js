@@ -17,8 +17,8 @@ function BreadingCard({data}) {
                 <h3>Occupation:<span className="occupation">{data.occupation}</span> </h3>
                 <h3>Portrayed:<span>{data.portrayed}</span> </h3>
 
+                </div>
             </div>
-        </div>
     )
 }
 
