@@ -1,11 +1,19 @@
 .App {
-  background-color: gray;
-  /* padding: 20px 0px; */
+  padding: 10px;
+  display: flex;
+  background-color: rgb(49, 45, 45);
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+}
+.breaking {
+  color: white;
   padding: 10px;
 }
 
-@media screen and (min-width: 1200px) {
-  .App {
-    margin: 0 auto;
-  }
+.breaking__top {
+  background-color: rgb(49, 45, 45);
+  color: white;
+  text-align: center;
+  padding: 20px;
+  font-size: 40px;
 }
