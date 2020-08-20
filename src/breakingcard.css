@@ -1,5 +1,5 @@
 .container {
-  max-width: 200px;
+  width: 250px;
   font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
     "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
   border: 1px solid rgb(143, 138, 138);
